@@ -91,6 +91,6 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 
 ## 📭 Contact
 
-- **Creator**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile Link]
+- **Creator**: Kelvin Fameyeh
+- **GitHub**: [@Wrttnspknbrkn](https://github.com/Wrttnspknbrkn)
+- **Email**: wycekhid10@gmail.com
